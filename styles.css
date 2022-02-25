@@ -1,0 +1,122 @@
+.smnews {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  top: 1%;
+  position: relative;
+  left: 20px;
+}
+
+.sports {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: relative;
+  left: 92%;
+  position: absolute;
+  top: 1%;
+}
+
+body {
+  background-image: url("Untitled_Artwork.png");
+  width: 100%;
+  height: 100%;
+  min-width: auto;
+}
+
+a:link {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+a:visited {
+  color: white;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+.text {
+  font-family: "Chivo", sans-serif;
+  color: white;
+  text-emphasis: bold;
+}
+
+img {
+  width: 400px;
+  height: 200px;
+}
+
+.article {
+  font-family: "Roboto", sans-serif;
+  color: white;
+}
+
+.chinatree {
+  position: absolute;
+  left: 1.75%;
+  top: 11%;
+}
+
+.world {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 84%;
+  position: absolute;
+  top: 1%;
+}
+
+.home {
+  font-family: "Roboto", sans-serif;
+  color: rgb(255, 255, 255);
+  position: absolute;
+  left: 76%;
+  position: absolute;
+  top: 1%;
+}
+
+.fartingflorida {
+  position: absolute;
+  left: 1.75%;
+  top: 94%;
+}
+
+.ramswon {
+  position: absolute;
+  left: 1.75%;
+}
+
+.appleclose {
+  position: absolute;
+  left: 45%;
+  top: 11%;
+}
+
+.ukraine {
+  position: absolute;
+  left: 45%;
+  top: 94%;
+}
+
+.live {
+  width: 36px;
+  height: 20px;
+  border-radius: 3px;
+  background-color: red;
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 15px;
+  position: absolute;
+  top: 127%;
+  left: 69%;
+}
+
+.credits {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 130%;
+  text-emphasis: bold;
+  position: absolute;
+  top: 170%;
+  left: 1.75%;
+}
