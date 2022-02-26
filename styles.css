@@ -22,6 +22,10 @@ body {
   height: 100%;
   min-width: auto;
 }
+.article1 {
+  position: absolute;
+  left: 1.75%;
+}
 
 a:link {
   color: white;
@@ -54,14 +58,14 @@ img {
 .chinatree {
   position: absolute;
   left: 1.75%;
-  top: 11%;
+  top: 160%;
 }
 
 .world {
   font-family: "Roboto", sans-serif;
   color: rgb(255, 255, 255);
   position: absolute;
-  left: 84%;
+  left: 72%;
   position: absolute;
   top: 1%;
 }
@@ -70,7 +74,7 @@ img {
   font-family: "Roboto", sans-serif;
   color: rgb(255, 255, 255);
   position: absolute;
-  left: 76%;
+  left: 62%;
   position: absolute;
   top: 1%;
 }
@@ -117,6 +121,13 @@ img {
   font-size: 130%;
   text-emphasis: bold;
   position: absolute;
-  top: 170%;
+  bottom: -140%;
   left: 1.75%;
+}
+
+.articlecredit {
+  font-family: "Roboto", sans-serif;
+  color: white;
+  font-size: 130%;
+  text-emphasis: bold;
 }
